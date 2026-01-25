@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiriyalaJayanth
+- 👋 Hi, I am Jayanth
 - 👀 I’m interested in ai-ml,cloud,data science and Entreprenuership
 - 🌱 I’m currently pursuing CSE bachelors
 - 💞️ I’m looking to collaborate on building software and a business community
