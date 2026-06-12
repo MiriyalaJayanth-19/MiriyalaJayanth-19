@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I am Jayanth<br>- 👀 I’m interested in ai-ml,cloud,data science and Entreprenuership<br>- 🌱 I’m currently pursuing CSE bachelors<br>- 💞️ I’m looking to collaborate on building software and a business community<br>- 📫 How to reach me : mail-murfo2k5@gmail.com<br>- ⚡ Fun fact: A Day on venus is longer than its year.
+- 👋 Hi, I am Jayanth<br>- 👀 I’m interested in ai-ml,cloud,data science and Entreprenuership<br>- 🌱 I’m currently pursuing CSE bachelors<br>- 💞️ I’m looking to collaborate on building software and a business community<br>- 📫 How to reach me : murfo2k5@gmail.com<br>- ⚡ Fun fact: A Day on venus is longer than its year.
 
 
 ## 🌐 Socials:
